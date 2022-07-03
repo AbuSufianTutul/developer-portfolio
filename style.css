@@ -7,8 +7,9 @@ h1{
 }
 
 
-section{
+.flexible{
     display:flex;
+    margin-bottom: 100px;
     
 }
 .width1{
@@ -36,4 +37,18 @@ section{
 .top-banner{
     background-image: url(images/cover.png);
     background-repeat: no-repeat;
+}
+
+.middle-banner{
+    display: flex;
+    
+    background-image: url(images/cover2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.width2 img{
+    width: 70%;
+}
+.middle-banner p{
+    padding-right: 70px;
 }
