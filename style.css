@@ -52,3 +52,34 @@ h1{
 .middle-banner p{
     padding-right: 70px;
 }
+.experience-item{
+    box-shadow: 10px 10px 20px gray;
+    height: 400px;
+    margin: 30px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left: 90px;
+    border-radius: 10px;
+   
+
+}
+.font{
+    font-size: 40px;
+}
+.fontp{
+    font-size: 18px;
+}
+.last-banner{
+    background-image: url(images/cover3.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack-developer{
+    border-left: 8px solid gray;
+}
+#baby-web-developer{
+    border-left: 8px solid blue;
+}
+footer p{
+    text-align: center;
+}
